@@ -1,0 +1,7 @@
+Employee ID:1234
+Employee Name     :jaswanth
+Father's Name     :vadivelan
+Employee Contact  :1234567890
+Email Information :jaswanthjas2004@gmail.com
+Employee position :software engineer
+Employee Salary   :400000
